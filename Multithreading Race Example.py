@@ -60,10 +60,7 @@ for thread in threads:
 
 print("Counter Lock value: {}".format(counter.count))
 
-
-
-
-   
+print("test")
 
 
 
